@@ -1,2 +1,2 @@
 # notebook
-My Jupyter Notebooks
+My personal Jupyter Notebooks
